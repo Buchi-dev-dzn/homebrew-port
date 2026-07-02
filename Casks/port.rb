@@ -1,6 +1,6 @@
 cask "port" do
   version "0.1.1"
-  sha256 "058d9d57740fa31795bd5bec4f01c07a5fb96f8a4ebb5b8a1dddac5c26a0ae5f"
+  sha256 "67136dc2bf69ddc2c0797f8ea08fc9a573743ed33151d635b3969dea0a2f3a99"
 
   url "https://github.com/Buchi-dev-dzn/port-releases/releases/download/v0.1.1/Port.app.zip"
 
