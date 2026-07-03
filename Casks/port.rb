@@ -1,8 +1,8 @@
 cask "port" do
-  version "0.1.3"
-  sha256 "43737a158c5a6972ba97d37ed0ea43a150f8a404e0ae69dc6413f34ccee9ef14"
+  version "0.1.4"
+  sha256 "ab9e7a0099b3b1a42c4c43bf284f05b35a4c77d4cf27d72fb69c443e4060ff2d"
 
-  url "https://github.com/Buchi-dev-dzn/port-releases/releases/download/v0.1.3/Port.app.zip"
+  url "https://github.com/Buchi-dev-dzn/port-releases/releases/download/v0.1.4/Port.app.zip"
 
   name "Port"
   desc "Modern terminal workspace"
